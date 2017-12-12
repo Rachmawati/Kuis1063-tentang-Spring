@@ -1,0 +1,9 @@
+com\Rachmawati\kuis1063\Kuis1063Application.class
+com\Rachmawati\kuis1063\service\cv_1063_service.class
+com\Rachmawati\kuis1063\controller\cv_1063.class
+com\Rachmawati\kuis1063\repo\nilai_1063_repo.class
+com\Rachmawati\kuis1063\entity\cv_1063_entity.class
+com\Rachmawati\kuis1063\entity\nilai_1063_entity.class
+com\Rachmawati\kuis1063\repo\cv_1063_repo.class
+com\Rachmawati\kuis1063\controller\nilai_1063.class
+com\Rachmawati\kuis1063\service\nilai_1063_service.class
